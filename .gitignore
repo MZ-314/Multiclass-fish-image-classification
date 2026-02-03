@@ -1,0 +1,16 @@
+# Trained models
+*.h5
+
+# Videos
+*.mp4
+
+# Datasets
+Dataset/
+data/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS junk
+Thumbs.db
+.DS_Store
